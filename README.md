@@ -12,7 +12,7 @@ There are several option for developers who might want to contribute in this cod
   - Traffic light violation
   
   Any question regarding the code you can contact me via : 
-  WhatsApp : +6281299424101
-  Line : niidlineawak
-  Instagram : rizqyep / pixelcube.ui
-  Email :rizqyepr@gmail.com
+  - WhatsApp : +6281299424101
+  - Line : niidlineawak
+  - Instagram : rizqyep / pixelcube.ui
+  - Email :rizqyepr@gmail.com
