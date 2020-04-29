@@ -14,5 +14,5 @@ There are several option for developers who might want to contribute in this cod
   Any question regarding the code you can contact me via : 
   - WhatsApp : +6281299424101
   - Line : niidlineawak
-  - Instagram : rizqyep / pixelcube.ui
+  - Instagram : rizqyep / codecafe_ig
   - Email :rizqyepr@gmail.com
